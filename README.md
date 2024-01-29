@@ -1,5 +1,3 @@
-markdown_extensions:
-  - attr_list
 # Random Quote Generator
 
 This project fetches quotes from an API and displays them on a webpage. Users can click a button to get a new random quote and have the option to tweet the quote.
