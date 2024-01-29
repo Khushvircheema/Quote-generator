@@ -39,7 +39,7 @@ Once the project is cloned, open the `index.html` file in your web browser. You'
 
 ## Live Page
 
-Check out the live version of this project [here](https://khushvircheema.github.io/Quote-generator/).
+Check out the live version of this project [here](https://khushvircheema.github.io/Quote-generator/){:target="_blank"}.
 
 ## Contributing
 
